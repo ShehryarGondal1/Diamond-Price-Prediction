@@ -3,4 +3,4 @@ flask
 numpy
 seaborn
 
--e .
+#-e .
